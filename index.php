@@ -10,6 +10,7 @@
   </head>
   <body class="template" style="background:blue;">
     
+    <div>Luis</div>
     <div class="template-wrap clear">
       <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
       <br>
