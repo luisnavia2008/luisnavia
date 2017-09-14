@@ -10,12 +10,12 @@
   </head>
   <body class="template" style="background:blue;">
     
-    <div><marquee>Luis </marquee></div>
+    <div><H3>Luis Navia</div>
     <div class="template-wrap clear">
-      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="1920px" width="1080px"></canvas>
       <br>
       <div class="logo"></div>
-      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="68" height="68" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+      <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
       <div class="title">CoWorker</div>
     </div>
     <script type='text/javascript'>
